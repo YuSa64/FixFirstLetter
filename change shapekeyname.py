@@ -39,7 +39,7 @@ class VIEW3D_PT_lowercase_shapekey_panel(bpy.types.Panel):
     bl_idname = "VIEW3D_PT_lowercase_shapekey_panel"
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'
-    bl_category = "EMMB"
+    bl_category = "YuSa64"
 
     def draw(self, context):
         layout = self.layout
